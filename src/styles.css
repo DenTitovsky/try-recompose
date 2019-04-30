@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.tooltip {
+  font-weight: normal;
+}
+
+.tooltip-focused {
+  font-weight: bold;
+}
